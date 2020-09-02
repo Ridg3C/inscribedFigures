@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1598905687 source:c:\users\checi\desktop\inscribedfigures\circlegather.cpp
+	<iostream>
+	<cmath>
+	"header.h"
+
+1599055536 source:c:\users\checi\desktop\inscribedfigures\squaregather.cpp
+	<iostream>
+	<cmath>
+	"header.h"
+
+1599055191 source:c:\users\checi\desktop\inscribedfigures\structors.cpp
+	<iostream>
+	"header.h"
+
+1599055369 source:c:\users\checi\desktop\inscribedfigures\main.cpp
+	<iostream>
+	"header.h"
+
+1598908658 c:\users\checi\desktop\inscribedfigures\header.h
+	<iostream>
+	<cmath>
+
+1598892451 source:c:\users\checi\desktop\inscribedfigures\menu.cpp
+	<iostream>
+	"header.h"
+
+1599055481 source:c:\users\checi\desktop\inscribedfigures\trianglegather.cpp
+	<iostream>
+	<cmath>
+	"header.h"
+
+1598905687 source:c:\users\checi\desktop\inscribedfigures\circleshow.cpp
+	<iostream>
+	<cmath>
+	"header.h"
+
+1599055436 source:c:\users\checi\desktop\inscribedfigures\triangleshow.cpp
+	<iostream>
+	<cmath>
+	"header.h"
+
+1599055436 source:c:\users\checi\desktop\inscribedfigures\squareshow.cpp
+	<iostream>
+	<cmath>
+	"header.h"
+
+1599055578 source:c:\users\checi\desktop\inscribedfigures\circleintriangle.cpp
+	<iostream>
+	<cmath>
+	"header.h"
+
+1599055578 source:c:\users\checi\desktop\inscribedfigures\circleinsquare.cpp
+	<iostream>
+	<cmath>
+	"header.h"
+
